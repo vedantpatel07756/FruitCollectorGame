@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+    width: 100px;
+    height: 100vh;
+    background-color:lightblue;
+    background-image: url(./Background.jpg);
+    background-size: cover;
+}
+
+.bucket{
+    position: absolute;
+    bottom: 100px;
+  
+    width: 100px;
+    height: 100px;
+    z-index: 100;
+  
+}
+
+.fruit{
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 60px;
+    background-color: red;
+    background: url(./Fruit.png);
+    background-size: cover;
+}
+
+.score{
+    z-index: 100;
+    /* background-color: White; */
+    color: white;
+    width: 120px;
+    height: 50px;
+    font-size: xx-large;
+
+}
