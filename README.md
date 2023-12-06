@@ -37,9 +37,6 @@ The Fruit Collector Game is an entertaining web-based game developed using JavaS
 
 We welcome contributions! If you have ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This Fruit Collector Game is open-source and licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 Enjoy playing the Fruit Collector Game, and happy coding! 🎮🍎
 
